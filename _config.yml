@@ -1,10 +1,11 @@
-openapi: 3.0.1
 title: Lauren Spann
 description: SAP API OAS Specification
 show_downloads: true
 google_analytics: 
 theme: jekyll-theme-modernist
+
 # got this from SAP's website.
+openapi: 3.0.1
 info:
   title: Download Electronic Documents
   description: |-
