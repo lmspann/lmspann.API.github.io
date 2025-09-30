@@ -1,4 +1,9 @@
 openapi: 3.0.1
+title: Lauren Spann
+description: SAP API OAS Specification
+show_downloads: true
+google_analytics: 
+theme: jekyll-theme-modernist
 # got this from SAP's website.
 info:
   title: Download Electronic Documents
@@ -7,9 +12,6 @@ info:
     - Download several XML files at the same time using the *NF-e/CT-e Monitor* screen (transaction J1BNFE).
     - Save the downloaded fiscal documents in a logical directory, after you run it in a batch. SAP recommends that you use this feature for auditing purposes.
   version: 1.0.0
-  show_downloads: true
-  google_analytics: 
-  theme: jekyll-theme-modernist
 x-sap-shortText: Downloads electronic document files with various extensions.
 externalDocs:
   description: SAP Document Compliance, outbound invoicing option for Brazil
