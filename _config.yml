@@ -1,6 +1,6 @@
 title: OpenAPI Specification (OAS)
-logo: 
-description: assets/img/stripeLogo.png
+logo: assets/img/stripeLogo.png
+description: 
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
