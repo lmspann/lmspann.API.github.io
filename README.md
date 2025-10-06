@@ -1,2 +1,13 @@
-# lmspann.API.github.io
-This is an SAP OAS specification
+# API Documentation Sample
+
+## About
+
+## Access and Authentication
+
+## Requests
+
+### Parameters
+
+## Responses
+
+### Response Codes
